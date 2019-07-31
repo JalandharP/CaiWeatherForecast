@@ -7,7 +7,7 @@ If you would like to use this source code for your application, replace the foll
 const appID = "(Replace to your APP ID)"
 
 
-**!!! CAUTION !!!**
+### !!! CAUTION !!!
 Currently the URL (https://www.metaweather.com/static/img/weather/) to get the weather icon is unavailable. 
 This URL is assigned to the variant "weatherIconURL" & "weatherIconPngURL" in this example. 
 Because I cannot handle the API provided by https://www.metaweather.com, sorry but I cannot help you. 
