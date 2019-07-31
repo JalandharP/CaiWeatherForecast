@@ -85,7 +85,7 @@ configRoutes = function( app, server )
 	app.all( '/*', function ( request, response, next ){
         recastMemory = request.body.conversation.memory;
 		next();
-	});
+    });
 	app.post( '/get_weather', async function( request, response ){
         var 
             isCurrentData = false,
