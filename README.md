@@ -11,6 +11,6 @@ const appID = "(Replace to your APP ID)"
 ~~Currently the URL (https://www.metaweather.com/static/img/weather/) to get the weather icon is unavailable. 
 This URL is assigned to the variant "weatherIconURL" & "weatherIconPngURL" in this example. 
 Because I cannot handle the API provided by https://www.metaweather.com, sorry but I cannot help you. 
-So please find the other weather icon provider, or create the icon (image files) by yourself and use it.
+So please find the other weather icon provider, or create the icon (image files) by yourself and use it.~~
 <br>
 **=> Currently there is no problem to access above API and the application works well and get icon images as expected.**
