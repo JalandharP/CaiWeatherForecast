@@ -1,4 +1,5 @@
 
 #Node packages
+.vscode/
 node_modules/
 index.html
