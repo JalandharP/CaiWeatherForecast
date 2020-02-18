@@ -13,7 +13,7 @@ const
     weatherIconURL = "https://www.metaweather.com/static/img/weather/",
     weatherIconPngURL = "https://www.metaweather.com/static/img/weather/png/",
     weatherMapURL = "https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&zoom=10",
-    appID = "<Replace to your APP ID>",
+    appID = "fea29089879b4e4e06ee2170b1e9ab79",
     axios = require('axios'),
     moment = require("moment");
 
